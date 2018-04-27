@@ -3,4 +3,4 @@ module.exports = (robot) ->
     msg.send 'hi'
 
   robot.respond /hoge/, (msg) ->
-		  msg.reply "foo"
+		  msg.reply "fuga"
